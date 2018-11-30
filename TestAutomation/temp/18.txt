@@ -1,0 +1,7 @@
+Error: Cannot divide by zero
+    at divModAny (/home/griffin/team1337/TestAutomation/project/packages/lesspass-cli/node_modules/big-integer/BigInteger.js:515:28)
+    at BigInteger.divmod (/home/griffin/team1337/TestAutomation/project/packages/lesspass-cli/node_modules/big-integer/BigInteger.js:564:22)
+    at Object.insertStringPseudoRandomly (/home/griffin/team1337/TestAutomation/project/packages/lesspass-cli/node_modules/lesspass-render-password/src/chars.js:52:42)
+    at renderPassword (/home/griffin/team1337/TestAutomation/project/packages/lesspass-cli/node_modules/lesspass-render-password/src/index.js:15:16)
+    at calcEntropy.then.entropy (/home/griffin/team1337/TestAutomation/project/packages/lesspass-cli/index.js:69:31)
+    at <anonymous>

@@ -1,0 +1,11 @@
+RangeError: Maximum call stack size exceeded
+    at consumeEntropy (/home/griffin/team1337/TestAutomation/project/packages/lesspass-cli/node_modules/lesspass-render-password/src/entropy.js:12:35)
+    at consumeEntropy (/home/griffin/team1337/TestAutomation/project/packages/lesspass-cli/node_modules/lesspass-render-password/src/entropy.js:13:10)
+    at consumeEntropy (/home/griffin/team1337/TestAutomation/project/packages/lesspass-cli/node_modules/lesspass-render-password/src/entropy.js:13:10)
+    at consumeEntropy (/home/griffin/team1337/TestAutomation/project/packages/lesspass-cli/node_modules/lesspass-render-password/src/entropy.js:13:10)
+    at consumeEntropy (/home/griffin/team1337/TestAutomation/project/packages/lesspass-cli/node_modules/lesspass-render-password/src/entropy.js:13:10)
+    at consumeEntropy (/home/griffin/team1337/TestAutomation/project/packages/lesspass-cli/node_modules/lesspass-render-password/src/entropy.js:13:10)
+    at consumeEntropy (/home/griffin/team1337/TestAutomation/project/packages/lesspass-cli/node_modules/lesspass-render-password/src/entropy.js:13:10)
+    at consumeEntropy (/home/griffin/team1337/TestAutomation/project/packages/lesspass-cli/node_modules/lesspass-render-password/src/entropy.js:13:10)
+    at consumeEntropy (/home/griffin/team1337/TestAutomation/project/packages/lesspass-cli/node_modules/lesspass-render-password/src/entropy.js:13:10)
+    at consumeEntropy (/home/griffin/team1337/TestAutomation/project/packages/lesspass-cli/node_modules/lesspass-render-password/src/entropy.js:13:10)
